@@ -1,4 +1,6 @@
 # Energy as a Fundamental Right - EFRI - Simulation Model
+
+## Summary
 - The goal of this model is to minimize energy poverty by finding the optimum amount of free electricity.
 - The simulation model tries millions of combinations of free electricity per household and per resident.
 - Results are visualized and compared with the initial energy poverty status.
