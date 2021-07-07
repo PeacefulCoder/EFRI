@@ -1,3 +1,3 @@
-- The raw output file (EFRI_Sim) cannot be added to this folder due to its size
+- The raw output file (EFRI_Sim) could not be uploaded to this folder due to its size
 - The aggregated raw output is summarized and saved as EFRI_Sim_sim
 - The optimum results are saved as EFRI_Sim_opt
