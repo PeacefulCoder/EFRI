@@ -1,2 +1,2 @@
 - The R Notebook and HTML output of this notebook is shared in this folder
-- The HTML output cannot be opened in GitHub due to its size. The file can be viewed by downloading.
+- The Complete HTML file cannot be previewed in GitHub due to its size. The file can be viewed by downloading.
