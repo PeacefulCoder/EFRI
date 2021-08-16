@@ -13,3 +13,9 @@ The “Energy as a Fundamental Right (EFRI)” simulation model is developed to 
 
 ## Sample Input Data
 The EFRI simulation model is tested on the 2015 Residential Energy Consumption (RECS) data of the USA. Optimum free electricity amounts are calculated for the Middle Atlantic region for each simulation indicator.
+
+## Simulation Output Files
+https://www.kaggle.com/mustafaoglu/efri-simulation
+
+## R Notebook Data Analysis Example
+https://www.kaggle.com/mustafaoglu/efri-output-analysis-example
