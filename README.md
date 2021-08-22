@@ -1,4 +1,6 @@
 # Energy as a Fundamental Right - EFRI - Simulation Model
+- For Simulation Input & Output Files and More Please Visit: https://www.kaggle.com/mustafaoglu/efri-simulation
+
 ![1](https://user-images.githubusercontent.com/29121890/130364270-ceb0257a-b922-4ab2-8bac-a96c1dd64e67.PNG)
 
 ## Summary
@@ -6,8 +8,6 @@
 - The simulation model tries all feasible pairs of free electricity per household and per resident.
 - Results are visualized and compared with the initial energy poverty status.
 - An R Notebook output is shared along with a sample data for step by step application.
-
-- For Simulation Input & Output Files and More Please Visit: https://www.kaggle.com/mustafaoglu/efri-simulation
 
 ## Background and Further Explanation
 Electricity has become a basic need for almost every individual considering its effect on health, security, and even education. Many low-income households suffer from energy insecurities, reduce basic needs to afford energy bills, and live in in unhealthy conditions. Although social tariffs and energy assistance programs alleviate these issues to a certain extent, a considerable number of households still suffer from energy poverty. Additionally, due to the interdependent nature of the electricity market, the excess electricity usage of other households increases the electricity unit prices and exacerbate the energy poverty issues. As a solution, a certain amount of residential electricity can be provided for free to the households. The examples of Flanders, Belgium, and Delhi, India are the first implementations of such a system. On the other hand, it is very difficult to determine the optimum amount of free electricity considering many socio-economic parameters such as energy consumption habits, electricity prices, number of residents and income levels. This study aims to answer the question: “What would be the optimum residential free electricity amount which would reduce the energy poverty issues most?”.
