@@ -1,4 +1,5 @@
 # Energy as a Fundamental Right - EFRI - Simulation Model
+![1](https://user-images.githubusercontent.com/29121890/130364270-ceb0257a-b922-4ab2-8bac-a96c1dd64e67.PNG)
 
 ## Summary
 - The goal of this model is to minimize energy poverty by finding the optimum amount of free electricity.
@@ -11,11 +12,5 @@ Electricity has become a basic need for almost every individual considering its 
 
 The “Energy as a Fundamental Right (EFRI)” simulation model is developed to answer this question. Six indicators are considered for measuring energy poverty: average ratio in income of all households, average ratio in income of low-income households, median ratio in income of all households, median ratio in income of low-income households, number of energy poor households, number of energy poor residents. The model is designed to be self-sufficient such that the residential unit price of electricity is increased to a certain level to compensate the free electricity amounts. The optimum free electricity amount per person and per household is calculated by creating an equilibrium between rising unit price of electricity and the amount of free electricity.
 
-## Sample Input Data
-The EFRI simulation model is tested on the 2015 Residential Energy Consumption (RECS) data of the USA. Optimum free electricity amounts are calculated for the Middle Atlantic region for each simulation indicator.
-
-## Simulation Output Files
+## Simulation Input & Output Files and More
 https://www.kaggle.com/mustafaoglu/efri-simulation
-
-## R Notebook Data Analysis Example
-https://www.kaggle.com/mustafaoglu/efri-output-analysis-example
